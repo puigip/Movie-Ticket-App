@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "195712348149",
+    "project_id": "buinguyengiap-e1e52",
+    "storage_bucket": "buinguyengiap-e1e52.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195712348149:android:f7a166140fca2ad292fabc",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9dyEs8-RHuc4BDhXHC9dp9VjQUvT1f20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
